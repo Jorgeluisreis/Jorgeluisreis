@@ -1,4 +1,6 @@
- *Hi, my name is Jorge Luis, I'm a backend developer. I am experienced with .NET and now studying Golang*
+<div align="center">
+
+*Hi, my name is Jorge Luis, I'm a backend developer. I am experienced with .NET and now studying Golang*
 
 <picture>
   <source
@@ -11,3 +13,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Jorgeluisreis&show_icons=true" />
 </picture>
+
+</div>
