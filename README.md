@@ -1,6 +1,6 @@
 <div align="center">
 
-*Hi, my name is Jorge Luis, I'm a backend developer. I am experienced with .NET and now studying Golang*
+*Hi, my name is Jorge Luis, I'm a backend developer. I am experienced with .NET and now studying Python and Java*
 
 <picture>
   <source
