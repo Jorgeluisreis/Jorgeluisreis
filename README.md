@@ -1,11 +1,23 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Jorge</h1>
-  
-*I'm a backend developer. I am experienced with .NET and now studying Java*
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+## 📌 GitHub Status
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jorgeluisreis&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeluisreis&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 
-# 📊 GitHub Stats:
+<h1>Hi 👋, I'm Jorge</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jorgeluisreis&theme=dark&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
+**Backend Developer — .NET Ecosystem**
+
+## 💻 Tech Stack
+
+### **Languages & Frameworks**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **Tools & Platforms**
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
