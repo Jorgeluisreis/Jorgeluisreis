@@ -1,8 +1,8 @@
 <div align="center">
 
 ## 📌 GitHub Status
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jorgeluisreis&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeluisreis&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+<img height="170em" src="https://github-readme-stats-nu-weld-10.vercel.app/api?username=Jorgeluisreis&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-nu-weld-10.vercel.app/api/top-langs/?username=Jorgeluisreis&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 
 <h1>Hi 👋, I'm Jorge</h1>
 
