@@ -15,8 +15,8 @@
 
 Desenvolvedor Backend com foco no ecossistema **.NET** e com experiência em **Java**, movido pela curiosidade de entender sistemas de **ponta a ponta**. Acredito que um desenvolvedor completo precisa compreender desde a arquitetura até a entrega, passando por todas as camadas do desenvolvimento.
 
-- 🚀 **Mentalidade**: Lifelong learner — sempre explorando novas tecnologias e práticas.
-- 🎯 **Abordagem**: End-to-end thinking — da ideia ao deploy, entendendo cada etapa.
+- 🚀 **Mentalidade**: Lifelong learner, sempre explorando novas tecnologias e práticas.
+- 🎯 **Abordagem**: End-to-end thinking, da ideia ao deploy, entendendo cada etapa.
 - 💡 **Paixão**: Resolver problemas complexos.
 
 ---
