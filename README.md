@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 Sobre Mim
 
 Desenvolvedor Backend com foco no ecossistema **.NET** e com experiência em **Java**, movido pela curiosidade de entender sistemas de **ponta a ponta**. Acredito que um desenvolvedor completo precisa compreender desde a arquitetura até a entrega, passando por todas as camadas do desenvolvimento.
@@ -18,8 +16,6 @@ Desenvolvedor Backend com foco no ecossistema **.NET** e com experiência em **J
 - 🚀 **Mentalidade**: Lifelong learner, sempre explorando novas tecnologias e práticas.
 - 🎯 **Abordagem**: End-to-end thinking, da ideia ao deploy, entendendo cada etapa.
 - 💡 **Paixão**: Resolver problemas complexos.
-
----
 
 ## 💻 Tech Stack
 
@@ -54,13 +50,16 @@ Desenvolvedor Backend com foco no ecossistema **.NET** e com experiência em **J
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jorgeluisreis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jorgeluisreis&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+<img height="190em" src="https://github-stats-extended.vercel.app/api?username=Jorgeluisreis&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&custom_title=Jorge%20Luis%27s%20GitHub%20Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&hide_border=true"/>
+
+<img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jorgeluisreis&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jorgeluisreis&theme=midnight-purple&hide_border=true" alt="Contribution Streak"/>
+
+<img src="https://streak-stats.demolab.com/?user=Jorgeluisreis&theme=midnight-purple&hide_border=true" alt="Contribution Streak"/>
+
 </div>
 
 ---
